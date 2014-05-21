@@ -1,0 +1,13 @@
+Changes
+lib/Image/CairoSVG.pm
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.SKIP
+README
+t/Church.png
+t/Church.svg
+t/image-cairosvg.t
+t/Technical_college.png
+t/Technical_college.svg
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
